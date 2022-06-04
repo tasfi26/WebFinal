@@ -1,0 +1,21 @@
+.row{
+    display: flex;
+    justify-content: space-between
+}
+table{
+    width: 100%;
+}
+.col-60{
+    flex-basis: 60%;
+}
+.email{
+    width: 20%;
+}
+
+.text{
+    width: 100%;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
